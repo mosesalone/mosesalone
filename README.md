@@ -1,19 +1,24 @@
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+## 📌 Technical Info
 
-<!--
-**mosesalone/mosesalone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Main Language](https://img.shields.io/badge/Main%20language-Python-blue?style=for-the-badge&logo=python&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/WM-Hyprland-303030?style=for-the-badge&logo=window-manager&logoColor=white)
+![Windows 11](https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 Currently Exploring
+
+I'm currently having fun with Python by experimenting with:
+- 🔐 Encryption & Obfuscation methods  
+- 🤖 AI & automation  
+- 📁 Encrypting files and playing around with hidden data  
+- 🛠️ Custom tools & environment-aware scripts  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical)
