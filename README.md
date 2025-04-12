@@ -20,5 +20,5 @@ I'm currently having fun with Python by experimenting with:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesalone&show_icons=true&theme=apprentice )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesalone&layout=compact&theme=apprentice )
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mosesalone&show_icons=true&theme=transparent )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mosesalone&layout=compact&theme=transparent )
